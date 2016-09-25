@@ -1,2 +1,2 @@
 # Assignments
-This repository contains assignments completed during my Software Engineering undergraduate degree at the University of Victoria.
+This repository contains algorithms that I have written for various classes at University of Victoria.
