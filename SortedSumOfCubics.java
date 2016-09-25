@@ -1,3 +1,10 @@
+/*
+Write a program that prints out all integers of the form 𝑎3 + 𝑏3, where 𝑎 and 𝑏 are integers in the range [0, 𝑛], in sorted order while using 𝑂(𝑛) space. That is, you cannot use an array of size 𝑛2 and then sort it.
+
+Input: A nonnegative integer n.
+Output: A sorted list of all integers of the form 𝑎3 + 𝑏3, where 𝑎 and 𝑏 are integers in the range [0, 𝑛].
+*/
+
 import java.util.Scanner;
 import java.util.Vector;
 import java.util.Arrays;
