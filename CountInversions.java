@@ -1,3 +1,10 @@
+/*
+The programming assignment is to implement an algorithm which counts the number of inversions in an input sequence:
+
+Input: An array 𝐴 of 𝑛 integers in the range 1 − 𝑛.
+Output: An integer, corresponding to the number of inversions in 𝐴.
+*/
+
 import java.util.Scanner;
 import java.util.Vector;
 import java.util.Arrays;
