@@ -1,2 +1,2 @@
-# Algorithsm
-This repository contains algorithms that I have written.
+# Algorithms
+This repository contains various algorithms that I have written.
